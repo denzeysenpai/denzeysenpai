@@ -6,7 +6,7 @@
 I'm working on making reusable components and templates for generic landing pages for products, business or personal portfolios.
 
 
-##🌱 I’m currently learning
+## 🌱 I’m currently learning
 I'm learning (barely) a lot of versions of Angular as well as different CSS frameworks for the projects I'm working on, as well as other tech stacks and frameworks.
 
 
