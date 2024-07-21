@@ -1,9 +1,5 @@
 ## Hi there 👋
  I am Mark, I'm currently a Web Developer but enjoy coding in my free time, primarily on UI styles and experimentation.
-<!--
-**denzeysenpai/denzeysenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on:
 I'm working on making reusable components and templates for generic landing pages for products, business or personal portfolios.
