@@ -13,24 +13,6 @@ I'm learning (barely) a lot of versions of Angular as well as different CSS fram
 ## 📫 How to reach me: 
 You can contact me through my personal email marksolante221@gmail.com
 
-## 👾 Languages and technologies I can use:
-- C# (Very much)
-- HTML/CSS/JS (Yep)
-- TypeScript (Blessing from god)
-- Tailwind (Yes.)
-- Python (First language)
-- C++ (Knowledge is from a couple old Unreal Engine projects but not that much)
-- F# (barely)
-- SASS
-- SQL/T-SQL
-- Flask
-- Angular (Yes)
-- NodeJS (Okay)
-- ExpressJS (Okay)
-- MongoDB (Okay)
-- Svelte (Learning)
-- .NET Framework (WinForms)
-- Visual Basic (barely)
 ## 😄 Pronouns: 
 hee / hee ('coz I'm a joke)
 ## ⚡ Fun fact: 
