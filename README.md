@@ -1,6 +1,6 @@
 # 💫 About Me:
 Just a developer who enjoys programming
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-josh-solante) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solantemark.workmail@gmail.com) 
 
